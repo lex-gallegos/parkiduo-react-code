@@ -1,0 +1,1 @@
+// Este archivo ha sido eliminado - el componente HeatmapOverlay ya no se utiliza
